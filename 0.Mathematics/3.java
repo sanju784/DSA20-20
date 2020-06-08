@@ -7,5 +7,4 @@
    - if (i != sqrt(n))   // This is done to remove duplicate values, for e.g. in case of 36, 6 will be added 2 times in the List. 
 	   add n/i to list A  // To remove duplicacy we can use Set instead of List.
 	   
-4. Time complexity - O(sqrt(n)), Space complexity - O(1)
-   
+4. Time complexity - O(sqrt(n)), Space complexity - O(1)  
