@@ -4,3 +4,4 @@
 1. Run a loop from 2 to sqrt(n)
 2. Time complexity O(n)
 3. Space Complexity O(1)
+
