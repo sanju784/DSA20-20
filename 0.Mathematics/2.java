@@ -11,3 +11,4 @@
  - We proceed in the same way and check for multiples of those numbers which are not striked out.
  - Then list finally contains the numbers which are prime. 
  - Space Complexity - O(n), Time Complexity - O(n.log log(n))
+
