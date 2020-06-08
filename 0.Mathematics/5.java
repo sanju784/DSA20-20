@@ -26,3 +26,4 @@ int eclid_gcd2(int a, int b) {
 int eclid_gcd_rec(int a, int b) {
 return b == 0 ? a : eclid_gcd_rec(b, a%b);
 }
+
